@@ -66,7 +66,7 @@ void Make_Diamond(int index_left, int index_right, int robo[][101], Pint index[]
 	}
 }
 
-// Hello There
+// Hello There  I'am making a comment
 
 int main()
 {
