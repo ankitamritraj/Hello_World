@@ -66,6 +66,8 @@ void Make_Diamond(int index_left, int index_right, int robo[][101], Pint index[]
 	}
 }
 
+// Hello There
+
 int main()
 {
 	std::ios_base::sync_with_stdio(false);
