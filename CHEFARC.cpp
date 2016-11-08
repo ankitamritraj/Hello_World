@@ -28,7 +28,28 @@ void Make_Diamond(int index_left, int index_right, int robo[][101], Pint index[]
 	int q=index_right;
 	Q.push(index[p][q]);
 	int i,j,l,s;
-	while(!Q.empty())
+	while(!Q.empty())s
+
+alsjdflkasjf
+ajsdd
+fasdf
+as
+dfas
+f
+as
+df
+as
+f
+as
+df
+dsd
+f
+ffas
+fd
+sdf
+s
+fd
+sad
 	{
 		temp=Q.front();
 		p=temp.first;
